@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="E:\Android\AndroidStudio\gradle\gradle-2.10" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/CrazyAndroid" />
+            <option value="$PROJECT_DIR$/MatthewPlayClient" />
+            <option value="$PROJECT_DIR$/autotextview" />
+            <option value="$PROJECT_DIR$/datepicker" />
+            <option value="$PROJECT_DIR$/imageviewer" />
+            <option value="$PROJECT_DIR$/interview" />
+            <option value="$PROJECT_DIR$/pictureviewer" />
+            <option value="$PROJECT_DIR$/progressbar" />
+            <option value="$PROJECT_DIR$/searchview" />
+            <option value="$PROJECT_DIR$/seekbar" />
+            <option value="$PROJECT_DIR$/spinner" />
+            <option value="$PROJECT_DIR$/stackview" />
+            <option value="$PROJECT_DIR$/textswitcher" />
+            <option value="$PROJECT_DIR$/titleprogress" />
+            <option value="$PROJECT_DIR$/viewflipper" />
+            <option value="$PROJECT_DIR$/viewswitcher" />
+            <option value="$PROJECT_DIR$/webSerser" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/CrazyAndroid" />
+            <option value="$PROJECT_DIR$/MatthewPlayClient" />
+            <option value="$PROJECT_DIR$/autotextview" />
+            <option value="$PROJECT_DIR$/datepicker" />
+            <option value="$PROJECT_DIR$/imageviewer" />
+            <option value="$PROJECT_DIR$/interview" />
+            <option value="$PROJECT_DIR$/pictureviewer" />
+            <option value="$PROJECT_DIR$/progressbar" />
+            <option value="$PROJECT_DIR$/searchview" />
+            <option value="$PROJECT_DIR$/seekbar" />
+            <option value="$PROJECT_DIR$/spinner" />
+            <option value="$PROJECT_DIR$/stackview" />
+            <option value="$PROJECT_DIR$/textswitcher" />
+            <option value="$PROJECT_DIR$/titleprogress" />
+            <option value="$PROJECT_DIR$/viewflipper" />
+            <option value="$PROJECT_DIR$/viewswitcher" />
+            <option value="$PROJECT_DIR$/webSerser" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

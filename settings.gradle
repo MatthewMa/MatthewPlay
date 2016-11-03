@@ -1,0 +1,2 @@
+include ':MatthewPlayClient', ':CrazyAndroid', ':pictureviewer', ':autotextview', ':imageviewer', ':spinner', ':viewflipper', ':stackview', ':progressbar', ':titleprogress', ':seekbar', ':viewswitcher', ':textswitcher', ':datepicker', ':searchview', ':interview'
+include ':webSerser'

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CrazyAndroid/CrazyAndroid.iml" filepath="$PROJECT_DIR$/CrazyAndroid/CrazyAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MatthewPlay.iml" filepath="$PROJECT_DIR$/MatthewPlay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MatthewPlayClient/MatthewPlayClient.iml" filepath="$PROJECT_DIR$/MatthewPlayClient/MatthewPlayClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/autotextview/autotextview.iml" filepath="$PROJECT_DIR$/autotextview/autotextview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datepicker/datepicker.iml" filepath="$PROJECT_DIR$/datepicker/datepicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imageviewer/imageviewer.iml" filepath="$PROJECT_DIR$/imageviewer/imageviewer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interview/interview.iml" filepath="$PROJECT_DIR$/interview/interview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pictureviewer/pictureviewer.iml" filepath="$PROJECT_DIR$/pictureviewer/pictureviewer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/progressbar/progressbar.iml" filepath="$PROJECT_DIR$/progressbar/progressbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/searchview/searchview.iml" filepath="$PROJECT_DIR$/searchview/searchview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seekbar/seekbar.iml" filepath="$PROJECT_DIR$/seekbar/seekbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spinner/spinner.iml" filepath="$PROJECT_DIR$/spinner/spinner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stackview/stackview.iml" filepath="$PROJECT_DIR$/stackview/stackview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/textswitcher/textswitcher.iml" filepath="$PROJECT_DIR$/textswitcher/textswitcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/titleprogress/titleprogress.iml" filepath="$PROJECT_DIR$/titleprogress/titleprogress.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewflipper/viewflipper.iml" filepath="$PROJECT_DIR$/viewflipper/viewflipper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewswitcher/viewswitcher.iml" filepath="$PROJECT_DIR$/viewswitcher/viewswitcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webSerser/webSerser.iml" filepath="$PROJECT_DIR$/webSerser/webSerser.iml" />
+    </modules>
+  </component>
+</project>
